@@ -1,0 +1,8 @@
+wheel
+numpy
+pandas
+plotly
+opencv-contrib-python
+dlib
+face_recognition
+streamlit
